@@ -35,11 +35,11 @@ Here are some other places where information on his works can be found:
 
 ## License
 
-As can be gathered from his article, "The Sahidic Coptic New Testament with Parallel Greek" (linked above):
+As can be gathered from J. Warren Wells' article, "The Sahidic Coptic New Testament with Parallel Greek" (linked above):
 
 > Copyright ©2000-2006 by J. Warren Wells. All rights reserved. Editor's written permission required to reprint. 
 
----
+### Specifics
 
 Coptic SCRIPTORIUM provides a license for the Sahidica New Testament obtained from his original website. (http://kami.to.md/index.php?topic=50.msg204)
 
