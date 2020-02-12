@@ -1,0 +1,34 @@
+bwversion 7.0.018x
+compilerversion 2
+rawdatafile c:\program files\bibleworks 7\userdb\coptic\egyptian_nt\nteg.txt              
+name Egyptian Greek Text of the NT
+font Default
+fontsize 12
+language Greek
+languagegroup Greek
+hasstrongs no
+hassuperscripts no
+hasitalics no
+readonly no
+transliterated no
+hasxrefs no
+hassmallcaps no
+usenaslexicon no
+sourceformat ccat
+sourceid 0
+keyboard Greek
+fonttype Greek
+dashoption 1
+apostropheoption 0
+codingscheme None
+wraptype GreekText
+content NTOnly
+hasnotes no
+hasendnotes no
+versionid NTEG
+companion 
+locale
+version 5000
+BeginGlobals
+
+EndGlobals
